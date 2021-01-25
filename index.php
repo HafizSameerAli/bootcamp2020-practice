@@ -4,7 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+<<<<<<< HEAD:index.php
     <title>Hafiz Sameer Ali</title>
+=======
+    <title>Hafiz Sameer Ali-Resume</title>
+>>>>>>> fe2386877902d4ee26e09f0048d8f1521a08671f:index.html
 
     <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet">
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
@@ -461,7 +465,7 @@
               <div class="row">
                 <div class="col-md-6">
                   <div class="card-body">
-                    <form action="https://formspree.io/your@gmail.com" method="POST">
+                  <form action="https://formspree.io/f/xbjpwqlj" method="POST" enctype="multipart/form-data">
                       <div class="p pb-3"><strong>Feel free to contact me </strong></div>
                       <div class="row mb-3">
                         <div class="col">
